@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Darkin's Photography and Poetry]]></title>
-        <description><![CDATA[Darkin's Photography and Poetry]]></description>
+        <title><![CDATA[Photography, Poetry, and other tidbits]]></title>
+        <description><![CDATA[Photography, Poetry, and other tidbits]]></description>
         <link>https://thegrid.ai/darkin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 21:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 21:40:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/darkin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[3:13 AM is when I remembered what I said]]></title>
+            <description><![CDATA[<h1>3:13 AM is when I remembered what I said</h1>]]></description>
+            <link>https://thegrid.ai/darkin/313-am-is-when-i-remembered-what-i-said/index.html</link>
+            <guid isPermaLink="false">2255ffe5-e3e2-4fb0-9c27-acd02a51cf0a</guid>
+            <pubDate>Tue, 12 Apr 2016 21:40:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Apocalyptic Thinking]]></title>
             <description><![CDATA[<article><h1>Apocalyptic Thinking</h1><p>Capture the rapture</p></article>]]></description>
