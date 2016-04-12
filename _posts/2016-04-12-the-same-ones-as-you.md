@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: The Same Ones as You
-datePublished: '2016-04-12T21:24:26.891Z'
-dateModified: '2016-04-12T21:24:13.763Z'
-title: ''
+description: "Pieces and partslife imitates artand my hearttell me what it's forbecause I'm feeling soreIs it meant for breaking?Will it make me free like lightning?I don't know what this is foryou know there's so much loreexplaining the starsand pieces and partslife imitates art"
+datePublished: '2016-04-12T21:26:53.136Z'
+dateModified: '2016-04-12T21:26:39.281Z'
+title: The Same Ones as You
 author: []
 authors: []
 publisher:
@@ -22,7 +22,7 @@ url: the-same-ones-as-you/index.html
 _type: Article
 
 ---
-[T][0]he Same Ones as You
+# The Same Ones as You
 
 Pieces and parts  
 life imitates art  
@@ -38,5 +38,3 @@ and pieces and parts
 life imitates art
 
 http://hellopoetry.com/darkin/
-
-[0]: http://hellopoetry.com/poem/1602461/the-same-ones-as-you/
