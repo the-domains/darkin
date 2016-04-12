@@ -1,0 +1,28 @@
+name: "Darkin's Photography and Poetry"
+favicon: null
+layout_spectrum: 0.8343790802173316
+typography_spectrum: 0.817694995785132
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.143970831297338
+  lightness: 0.9441163796000183
+  saturation: 0.2898130686953664
+  rhythmicContrast: 0.5372996223159134
+purpose: []
