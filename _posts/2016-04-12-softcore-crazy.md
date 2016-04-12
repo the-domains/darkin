@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-12T21:28:28.144Z'
-dateModified: '2016-04-12T21:28:27.799Z'
+datePublished: '2016-04-12T21:33:43.951Z'
+dateModified: '2016-04-12T21:30:32.184Z'
+title: Softcore Crazy
+author: []
+sourcePath: _posts/2016-04-12-softcore-crazy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Softcore Crazy
-author: []
-sourcePath: _posts/2016-04-12-softcore-crazy.md
-published: true
 url: softcore-crazy/index.html
 _type: Article
 
