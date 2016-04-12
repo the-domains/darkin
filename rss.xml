@@ -4,8 +4,15 @@
         <description><![CDATA[Darkin's Photography and Poetry]]></description>
         <link>https://thegrid.ai/darkin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 21:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 21:34:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/darkin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Softcore Crazy]]></title>
+            <description><![CDATA[<article><h1>Softcore Crazy</h1><p>where the anguish of language first bloomed</p></article>]]></description>
+            <link>https://thegrid.ai/darkin/softcore-crazy/index.html</link>
+            <guid isPermaLink="false">bb4428ef-2416-48cf-b82d-35d3e522199f</guid>
+            <pubDate>Tue, 12 Apr 2016 21:33:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Same Ones as You]]></title>
             <description><![CDATA[<article><h1>The Same Ones as You</h1><p>Pieces and partslife imitates artand my hearttell me what it's forbecause I'm feeling soreIs it meant for breaking?Will it make me free like lightning?I don't know what this is foryou know there's so much loreexplaining the starsand pieces and partslife imitates art</p></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/darkin/time-stands-still-when-the-ever-present-much-more-friend-des/index.html</link>
             <guid isPermaLink="false">62bfabee-8df9-4c74-b2f3-c24d84fd9b4b</guid>
             <pubDate>Tue, 12 Apr 2016 21:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Softcore Crazy]]></title>
-            <description><![CDATA[<article><h1>Softcore Crazy</h1><p>Something happened</p></article>]]></description>
-            <link>https://thegrid.ai/darkin/softcore-crazy/index.html</link>
-            <guid isPermaLink="false">bb4428ef-2416-48cf-b82d-35d3e522199f</guid>
-            <pubDate>Tue, 12 Apr 2016 21:28:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
