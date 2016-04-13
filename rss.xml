@@ -4,8 +4,15 @@
         <description><![CDATA[Photography, Poetry, and other tidbits]]></description>
         <link>https://thegrid.ai/darkin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 00:00:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 00:07:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/darkin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Romantic Bones]]></title>
+            <description><![CDATA[<article><h1>Romantic Bones</h1><p>Lightning fingertips</p></article>]]></description>
+            <link>https://thegrid.ai/darkin/3dd5a6fb-534d-480e-ad81-f7be96b670dc/index.html</link>
+            <guid isPermaLink="false">3dd5a6fb-534d-480e-ad81-f7be96b670dc</guid>
+            <pubDate>Wed, 13 Apr 2016 00:06:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Can I Say]]></title>
             <description><![CDATA[<article><h1>What Can I Say</h1><p>For you I can lay the secrets</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/darkin/softcore-crazy/index.html</link>
             <guid isPermaLink="false">bb4428ef-2416-48cf-b82d-35d3e522199f</guid>
             <pubDate>Tue, 12 Apr 2016 21:33:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Same Ones as You]]></title>
-            <description><![CDATA[<article><h1>The Same Ones as You</h1><p>Pieces and partslife imitates artand my hearttell me what it's forbecause I'm feeling soreIs it meant for breaking?Will it make me free like lightning?I don't know what this is foryou know there's so much loreexplaining the starsand pieces and partslife imitates art</p></article>]]></description>
-            <link>https://thegrid.ai/darkin/the-same-ones-as-you/index.html</link>
-            <guid isPermaLink="false">931679a8-9fba-4af6-aaaa-a8b3202bb6fd</guid>
-            <pubDate>Tue, 12 Apr 2016 21:33:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
