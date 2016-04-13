@@ -1,7 +1,7 @@
-name: "Darkin's Photography and Poetry"
+name: "Darkin's Art"
 favicon: null
-layout_spectrum: 0.45074
-typography_spectrum: 0.5062
+layout_spectrum: 1
+typography_spectrum: 0
 title: 'Photography, Poetry, and other tidbits'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.5
-  lightness: 0.6875
+    - '#040809'
+    - '#3170a5'
+    - '#c4c2c3'
+    - '#825737'
+    - '#d09f6e'
+  brandStrength: 0.25
+  lightness: 0.1875
   saturation: 0.1875
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
